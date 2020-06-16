@@ -1,5 +1,5 @@
 body {
-    width: 100%;
+    width: auto;
     margin: 30px;
     background-color: antiquewhite;
 }
@@ -9,6 +9,7 @@ body {
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
+    font-family: sans-serif;
 }
     
 #profile-image{
